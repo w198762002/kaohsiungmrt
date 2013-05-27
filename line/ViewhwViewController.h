@@ -13,7 +13,6 @@
 @property (weak, nonatomic) IBOutlet UIImageView *image;
 @property (nonatomic) int poet;
 @property (nonatomic) int poet0;
--(IBAction)butMap:(id)sender;
 @property(nonatomic) double x,y;
 @property(nonatomic) NSString *s1;
 @property(nonatomic) NSString *s2;

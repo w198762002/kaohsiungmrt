@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>橘線</key>
+	<array>
+		<string>O1西子彎(哈碼星)</string>
+		<string>O2鹽埕埔</string>
+		<string>O4市議會(舊址)</string>
+		<string>R10O5美麗島</string>
+		<string>06信義國小</string>
+		<string>O7文化中心</string>
+		<string>O8五塊厝</string>
+		<string>O9技擊管</string>
+		<string>010衛武營</string>
+		<string>011鳳山西站(鳳山市議會)</string>
+		<string>O12鳳山</string>
+		<string>O13大東</string>
+		<string>O14鳳山國中</string>
+		<string>OT1大寮(前庄)</string>
+	</array>
+	<key>紅線</key>
+	<array>
+		<string>R3小港(小港醫院)</string>
+		<string>R4高雄國際機場</string>
+		<string>R4A草衙(高雄捷運公司)</string>
+		<string>R5前鎮高中(五甲)</string>
+		<string>R6凱旋</string>
+		<string>R7獅甲(勞工公園)</string>
+		<string>R8三多商圈</string>
+		<string>R9中央公園</string>
+		<string>R10O5美麗島站</string>
+		<string>R11高雄車站</string>
+		<string>R12後驛(高醫大)</string>
+		<string>R13凹子底</string>
+		<string>R14巨蛋(三民家商)</string>
+		<string>R15生態園區</string>
+		<string>R16左營(高鐵)</string>
+		<string>R17世運(國家體育園區)</string>
+		<string>R18油場國小(中山大學附中)</string>
+		<string>R19楠梓加工區</string>
+		<string>R20後勁(海科大)</string>
+		<string>R21都會公園</string>
+		<string>R22青甫(高科大)</string>
+		<string>R22A橋頭糖廠</string>
+		<string>R23橋頭火車站</string>
+		<string>R24南岡山</string>
+	</array>
+</dict>
+</plist>

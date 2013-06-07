@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-import json, re
+import json
 import requests
 from bs4 import BeautifulSoup, element
 
@@ -28,6 +28,9 @@ class PriceParser(object):
 
 
     def parse(self):
+        """
+        Get all stations information then write that into files.
+        """
         stations = self.getStations()
         for start in stations:
             print 'loading %s' % start
